@@ -1,4 +1,5 @@
 interface Car {
+    pritam
     void startEngine(); 
     void shiftGear(int gear);
     void accelerate();
